@@ -8,7 +8,7 @@ HackerRank Problem can be found [here](https://www.hackerrank.com/challenges/thr
 
 ### Example
 
-**arr = [1,3,5,7,9]
+**arr = [1,3,5,7,9]**
 
 The minimum sum is  and the maximum sum is . The function prints
 
@@ -31,7 +31,7 @@ A single line of five space-separated integers.
 
 ### Constraints
 
-**<=arr[i]<=10^9**
+**1<=arr[i]<=10^9**
 
 ### Output Format
 
